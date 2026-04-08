@@ -1,0 +1,30 @@
+# Core
+torch>=2.1.0
+transformers>=4.40.0
+lightning>=2.2.0
+omegaconf>=2.3.0
+hydra-core>=1.3.0
+hydra-colorlog>=1.2.0
+
+# Data
+polars>=0.20.0
+pyarrow>=14.0.0
+numpy>=1.26.0
+nested-ragged-tensors>=0.1.0
+
+# MEDS ecosystem
+meds-torch>=0.1.0
+clinical-zeroshot-labeler==0.0.3
+
+# Modeling
+x-transformers==1.34.0
+torchmetrics>=1.3.0
+
+# Experiment tracking
+wandb>=0.16.0
+
+# Utils
+rich>=13.7.0
+loguru>=0.7.0
+tqdm>=4.66.0
+pandas>=2.2.0

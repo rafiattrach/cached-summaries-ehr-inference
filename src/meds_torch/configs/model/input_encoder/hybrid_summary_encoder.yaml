@@ -1,0 +1,12 @@
+_target_: meds_torch.input_encoder.hybrid_summary_encoder.HybridSummaryEncoder.initialize
+collate_style: triplet
+max_seq_len: ${model.max_seq_len}
+token_dim: ${model.token_dim}
+vocab_size: ${data.vocab_size}
+
+summary:
+  enabled: true
+  variant: recent  # recent | distant
+  S: 256
+  policy: omit_if_L_lt_N
+  apply: token  # token | film | gate 
