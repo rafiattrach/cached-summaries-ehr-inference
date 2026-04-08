@@ -1,6 +1,6 @@
 # Cached Foundation Model Summaries for Memory-Efficient Clinical Time Series Inference
 
-Accepted at the **1st Time Series in the Age of Large Models (TSALM) Workshop, ICLR 2026**.
+Accepted at the **1st Time Series in the Age of Large Models (TSALM) Workshop, ICLR 2026**. [[Paper]](https://openreview.net/pdf?id=kdoFfrlOZj)
 
 > Rafi Al Attrach, Rajna Fani, David Restrepo, Yugang Jia, Leo Anthony Celi, Peter Schüffler
 > Massachusetts Institute of Technology | Technical University of Munich | CentraleSupelec
